@@ -8,6 +8,7 @@
 
 
 const urls = [
+	'https://hhming.moe',
 	'https://forms.gle/sZhjBacEMBkX3dpg9',
 	'https://forms.gle/i95C1PrvxUucyaE9A',
 	'https://forms.gle/b3fYq6dkepdUGU9H8',
